@@ -3,7 +3,14 @@
 	templatestock.co @templatestock
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
-
+html,body
+{
+width: 100%;
+height: 100%;
+margin: 0px;
+padding: 0px;
+overflow-x: hidden;
+}
 * {
 	margin:0 auto;
 	padding: 0;
